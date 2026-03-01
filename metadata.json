@@ -1,0 +1,5 @@
+{
+  "name": "GeoQuest",
+  "description": "A Kahoot-like geography platform where students pinpoint locations on a map to compete for the top spot.",
+  "requestFramePermissions": []
+}
